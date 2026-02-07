@@ -44,7 +44,7 @@ async def get_stats(bot, message):
 async def donate(client, message):
 	text = "<b>🥲 Thanks For Showing Interest In Donation! ❤️</b> \n\nBut I don't need any donation, fell free to use this bot. \n\n<b>"
 	keybord = InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/Stubborn1223"), 
+        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/Lucky_y2"), 
         			InlineKeyboardButton("✖️ Close",callback_data = "close_btn") ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
