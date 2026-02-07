@@ -17,7 +17,7 @@ class Translation(object):
   
 👉 Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Stubborn1223</b>"""
+<b>Bot Is Made By @Lucky_y2</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -52,9 +52,9 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/@Stubborn1223'> 𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/@Lucky_y2'> 𝐋𝐔𝐂𝐊𝐘 🕊</a>
 
-<b>♻️ Bot Made By :</b> @Stubborn1223 """
+<b>♻️ Bot Made By :</b> @Lucky_y2 """
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
